@@ -19,7 +19,14 @@
 5. 🏆 친환경 점수 시스템	총점이 낮을수록 높은 친환경 점수 부여
 6. 🔁 다양한 시나리오	다양한 목적지/경로/물류 조건을 시도할 수 있게 반복 가능하게 설계
 
-# 🔢 예시 데이터 (탄소배출량 기준 예시)
-![image](https://github.com/user-attachments/assets/f32e92e9-346a-4b11-9de2-6a12a0ac9844)
+# 🔢 예시
+
+![image](https://github.com/user-attachments/assets/a4f2473b-ee33-4517-a415-98bcce78d69a)
+![image](https://github.com/user-attachments/assets/6b198a56-24da-4ec2-8133-95988b55618f)
+![image](https://github.com/user-attachments/assets/0401f0ca-c140-4596-a50e-68e0b8ef559e)
+![image](https://github.com/user-attachments/assets/38bdd311-49b9-42c2-88f3-27476ae8a98c)
+![image](https://github.com/user-attachments/assets/9e2a1172-b25b-476d-95c9-ad5819dd3c7b)
+
+
 
 **프로젝트 인원 ( 이동혁 , 최영재 )**
